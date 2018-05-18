@@ -2,4 +2,6 @@
 
 Hi,Humans!
 
-Everybody is good, I do the Java industry new salute to everybody. Because I love the Java industry, so when I was in college, chose software technology professional. I can skilled to master Java foundation, familiar with Web side frame, such as: Spring, for Springmvc, Mybatis, Hibernate. Understand the Java modular architecture design.
+Hello everyone, as a newcomer to the Java industry, I salute you all! Because I like the Java industry, I chose to major in software 
+technology when I was in college. I am familiar with the Java foundation, familiar with the framework of the Web, such as Springmvc, 
+Mybatis, Hibernate. Understand the Java modular architecture design.
